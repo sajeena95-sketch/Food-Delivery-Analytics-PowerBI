@@ -23,7 +23,7 @@ Food delivery businesses generate large volumes of data every day. Manual analys
 
 ## 📊 Dashboard Preview
 
-> **After saving this README, we'll add the image here in the next step.**
+> ![Food Delivery Dashboard](Images/Screenshot%202026-07-29%20041701.png)
 
 ---
 
